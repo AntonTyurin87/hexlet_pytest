@@ -1,3 +1,3 @@
 # hexlet_pytest
 
-[![hello-world](https://github.com/AntonTyurin87/hexlet-my-first-workflow-/actions/workflows/hello-world.yml/badge.svg)](https://github.com/AntonTyurin87/hexlet-my-first-workflow-/actions/workflows/hello-world.yml)
+[![hexlet_testing](https://github.com/AntonTyurin87/hexlet_pytest/actions/workflows/hexlet_testing.yml/badge.svg)](https://github.com/AntonTyurin87/hexlet_pytest/actions/workflows/hexlet_testing.yml)
